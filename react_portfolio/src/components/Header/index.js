@@ -10,7 +10,6 @@ const Header = ({
   navBtThree,
 }) => {
   return (
-    <div>
       <nav className={`navbar navbar-expand-md navbar-dark ${navTheme}`}>
         <a className="navbar-brand" href={navLinkOne}>
           {navBtOne}
@@ -41,7 +40,6 @@ const Header = ({
           </ul>
         </div>
       </nav>
-    </div>
   );
 };
 
