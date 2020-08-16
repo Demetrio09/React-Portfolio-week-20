@@ -1,0 +1,37 @@
+[
+  {
+    "data": "handlebars are working",
+    "style": "home.css",
+    "navLinkOne": "about",
+    "navBtOne": "About",
+    "navLinkTwo": "portfolio",
+    "navBtTwo": "Portfolio",
+    "navLinkThree": "contact",
+    "navBtThree": "Contact",
+    "footerClass": "class=\"fixed-bottom\""
+  },
+  {
+    "title": "| About",
+    "style": "",
+    "navTheme": "bg-dark",
+    "navLinkOne": "/",
+    "navBtOne": "Home",
+    "navLinkTwo": "portfolio",
+    "navBtTwo": "Portfolio",
+    "navLinkThree": "contact",
+    "navBtThree": "Contact",
+    "footerClass": "class=\"bottom bg-dark\""
+  },
+  {
+    "title": "| Portfolio",
+    "style": "",
+    "navTheme": "bg-dark",
+    "navLinkOne": "/",
+    "navBtOne": "Home",
+    "navLinkTwo": "about",
+    "navBtTwo": "About",
+    "navLinkThree": "contact",
+    "navBtThree": "Contact",
+    "footerClass": "class=\"bottom bg-dark\""
+  }
+]
