@@ -14,9 +14,6 @@ Now that I've worked with React and have multiple projects to share, I updated m
 
 #### Design
 
-As with the previous portfolio homework, "good" design is subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
 - Mobile-first design
 
 - Choosed a color palette for your site so it doesn't just look like
@@ -26,7 +23,7 @@ As with the previous portfolio homework, "good" design is subjective. Your site 
 
 ---
 
-## [Deploed Appication]()
+## [Deploed Appication](https://demetrioalmeida.herokuapp.com/)
 
 ## [LinkedIn Profile](https://www.linkedin.com/in/demetrio-almeida-barroso-a4a29171/)
 
