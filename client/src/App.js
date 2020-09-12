@@ -4,7 +4,7 @@ import Main from "./pages/Index";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
-import * as navUtil from "./utils/Header/index.json";
+import * as navUtil from "./utils/header/index.json";
 
 function App() {
   return (
